@@ -49,6 +49,13 @@
 						 calc(var(--week-width) * 4) /* Nov */
 						 calc(var(--week-width) * 5) /* Dec */;
 }
+
+.days,
+.squares {
+  display: grid;
+  grid-gap: var(--square-gap);
+  grid-template-rows: repeat(7, var(--square-size));
+}
 </style>
 </head>
 <body>
