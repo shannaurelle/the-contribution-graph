@@ -33,6 +33,17 @@
 .days {
   grid-gap: var(--square-gap);
 }
+
+:root {
+  --square-size: 15px;
+  --square-gap: 5px;
+  --week-width: calc(var(--square-size) + var(--square-gap));
+}
+
+.months {
+  display: grid;
+  grid-template-columns: repeat(12, calc(var(--week-width) * 4));
+}
 </style>
 </head>
 <body>
