@@ -2,7 +2,7 @@
 A recreation of Github contribution graph using HTML and CSS.
 ![a preview of the Github contribution graph styling. Squares are colored on shades of green, and months are aligned on appropriate days](https://github.com/shannaurelle/the-contribution-graph/blob/a2560599621a837fcaf4a9618fdf5447ad00398e/preview.PNG)
 
-This implementation uses default colors with square shapes and month names on proper days. CSS compatibility is given on this [search result](https://caniuse.com/?search=css-grid). If your browser doesn't support this layout, please send me [an issue](https://github.com/shannaurelle/the-contribution-graph/issues). I would be happy to add support for your beloved browser. 
+This implementation uses default colors with square shapes and month names on proper days using three levels based on the contribution number specified at random. CSS compatibility is given on this [search result](https://caniuse.com/?search=css-grid). If your browser doesn't support this layout, please send me [an issue](https://github.com/shannaurelle/the-contribution-graph/issues). I would be happy to add support for your beloved browser. 
 ## Getting Started
 First, download this repository through github or git by clicking the green buttion named Code.
 ![this is an image showing the green button named code, click it to see this panel](https://github.com/shannaurelle/the-contribution-graph/blob/8af518b104d9667eca9cde0bef22f0d3a395e518/github-option.PNG)
