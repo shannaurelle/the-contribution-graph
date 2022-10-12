@@ -15,6 +15,8 @@ Oh you are still reading this? If you are interested in contributing to this pro
 git clone https://github.com/shannaurelle/the-contribution-graph.git
 ```
 For more information on installing git, you may refer to [this tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners). Click the link to go into the tutorial itself.
+
+Tutorial not enough for you? You may also refer to the [official documentation](https://git-scm.com/doc). Please click the link to go there.
 ## Roadmap
 1. Make the colors easy to adjust
 2. Make the months rotate based on desired starting/ending month
