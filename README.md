@@ -15,6 +15,9 @@ Oh you are still reading this? If you are interested in contributing to this pro
 ```
 git clone https://github.com/shannaurelle/the-contribution-graph.git
 ```
+If you are familiar with git clone commands, you can copy the repository URL through clicking overlapping squares icon.
+![this image boxes in red the copy link shown as a overlapping squares icon](https://github.com/shannaurelle/the-contribution-graph/blob/2533929e71dfa1853b863669af1ffc2555d3d433/github-git-clone-option.png)
+
 For more information on installing git, you may refer to [this tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners). Click the link to go into the tutorial itself.
 
 Tutorial not enough for you? You may also refer to the [official documentation](https://git-scm.com/doc). Please click the link to go there.
@@ -22,3 +25,4 @@ Tutorial not enough for you? You may also refer to the [official documentation](
 1. Make the colors easy to adjust
 2. Make the months rotate based on desired starting/ending month
 3. Make the chart responsive (for smaller screens it should display vertically)
+4. Support additional browsers with no css grid layout rendering capabilities
