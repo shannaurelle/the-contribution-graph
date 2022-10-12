@@ -21,6 +21,10 @@ If you are familiar with git clone commands, you can copy the repository URL thr
 For more information on installing git, you may refer to [this tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners). Click the link to go into the tutorial itself.
 
 Tutorial not enough for you? You may also refer to the [official documentation](https://git-scm.com/doc). Please click the link to go there.
+
+### Reference Tutorial
+This repository would never be possible without the help of hardworking programmers on the internet! I invite you to check out [his tutorial](https://bitsofco.de/github-contribution-graph-css-grid/) for more information about the step-by-step details. Please send me [an issue](https://github.com/shannaurelle/the-contribution-graph/issues) if you think he did a poor job explaining some details. I would be happy to help you!
+
 ## Roadmap
 1. Make the colors easy to adjust
 2. Make the months rotate based on desired starting/ending month
