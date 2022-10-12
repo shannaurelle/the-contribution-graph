@@ -8,6 +8,9 @@ First, download this repository through github or git by clicking the green butt
 
 If you want to skip any git installation, just click "Download Zip" and it should save this repo on your computer.
 ![this is an image boxing the download link button using a red square](https://github.com/shannaurelle/the-contribution-graph/blob/8ed3df2f6adb62ffc8afa2e8fd141e869f70a34c/github-download-zip.png)
+
+Oh you are still reading this? If you are interested in contributing to this project or you want to clone this repo, feel free to download this via git clone command.
+
 ## Roadmap
 1. Make the colors easy to adjust
 2. Make the months rotate based on desired starting/ending month
