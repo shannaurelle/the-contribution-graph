@@ -1,5 +1,6 @@
 # the-contribution-graph
 A recreation of Github contribution graph using HTML and CSS
+![a preview of the Github contribution graph styling. Squares are colored on shades of green, and months are aligned on appropriate days](https://github.com/shannaurelle/the-contribution-graph/blob/a2560599621a837fcaf4a9618fdf5447ad00398e/preview.PNG)
 ## Feature
 Default colors, square shape style with month names on proper days. 
 ## Getting Started
